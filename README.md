@@ -1,8 +1,8 @@
-# FD-PWA
+# APP/ Web version
 # Food Delivery App (Trial Version) - README
 
 ## Introduction
-This document serves as a README file for the trial version of a food delivery app developed by students. The purpose of this app is to provide users with a convenient and user-friendly platform for ordering food from local restaurants and having it delivered to their doorstep.
+This document serves as a README file for the trial version of a food delivery app being developed . The purpose of this app is to provide users with a convenient and user-friendly platform for ordering food from local restaurants and having it delivered to their doorstep.
 
 ## Features
 The trial version of the food delivery app includes the following features:
@@ -45,7 +45,7 @@ The trial version of the food delivery app may have the following known issues:
 
 1. Performance: The app's performance might be slower or less optimized compared to a fully developed and optimized version.
 
-2. Limited Restaurant Availability: The trial version may have a limited number of restaurants available for ordering, depending on the app's current testing phase.
+2. Limited Restaurant Inventory
 
 3. Limited Payment Options: The trial version might support only a few payment methods, and not all payment gateways might be fully integrated.
 
