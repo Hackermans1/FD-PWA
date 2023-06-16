@@ -26,7 +26,7 @@ The trial version of the food delivery app includes the following features:
 ## Getting Started
 To use the trial version of the food delivery app, follow these steps:
 
-1. Download the app from the provided link and install it on your device.
+1. Create a website
 
 2. Launch the app and create a new account by providing your details, or log in using your existing credentials.
 
@@ -39,6 +39,7 @@ To use the trial version of the food delivery app, follow these steps:
 6. Choose a preferred payment method and complete the payment process securely.
 
 7. Sit back and track the progress of your order in real-time until it is delivered to your specified location.
+
 
 ## Known Issues
 The trial version of the food delivery app may have the following known issues:
