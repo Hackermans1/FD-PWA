@@ -26,19 +26,21 @@ The trial version of the food delivery app includes the following features:
 ## Getting Started
 To use the trial version of the food delivery app, follow these steps:
 
-1. Create a website
+0. Find a name of the app
+1. design a boilerplate
+2. Create a website
 
-2. Launch the app and create a new account by providing your details, or log in using your existing credentials.
+3. Launch the app and create a new account by providing your details, or log in using your existing credentials.
 
-3. Grant the app necessary permissions to access your location for accurate restaurant recommendations.
+4. Grant the app necessary permissions to access your location for accurate restaurant recommendations.
 
-4. Explore the app by browsing through the list of available restaurants, checking their menus, and selecting the desired food items.
+5. Explore the app by browsing through the list of available restaurants, checking their menus, and selecting the desired food items.
 
-5. Add the selected items to your cart, review your order, and proceed to the payment screen.
+6. Add the selected items to your cart, review your order, and proceed to the payment screen.
 
-6. Choose a preferred payment method and complete the payment process securely.
+7. Choose a preferred payment method and complete the payment process securely.
 
-7. Sit back and track the progress of your order in real-time until it is delivered to your specified location.
+8. Sit back and track the progress of your order in real-time until it is delivered to your specified location.
 
 
 ## Known Issues
